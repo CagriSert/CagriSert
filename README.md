@@ -14,7 +14,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/cagr%C4%B1-sert-8a94a71bb/
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **CagriSert/CagriSert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
